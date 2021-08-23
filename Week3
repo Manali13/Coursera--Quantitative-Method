@@ -1,0 +1,2 @@
+# Coursera--Quantitative-Method
+Solutions to the Peer based Review Questions

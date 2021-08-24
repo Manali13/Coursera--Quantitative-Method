@@ -1,0 +1,19 @@
+# Coursera--Quantitative-Method
+Solutions to the Peer based Review Questions
+
+
+Here's an example: for example question 7 ‘are you Dutch? [yes / no]' (which would be recorded in the datafile as V8), the
+codebook could contain this information:
+
+V8 - variable name: nationality, variable description: Dutch nationality, values: 1=yes, 2=no.
+
+You have 500 words, but you should be able to complete this assignment with 200-300 words or even less!
+
+V1: variable name: member number, variable portrayal: member ID values: 0-10000000 V2: variable name: age, variable
+portrayal: member's age values: 1-100 V3: variable name: sex, variable depiction: member's sexual orientation values: 1=
+male, 2= female, 3= I'd rather not say. V4: variable name: skills, variable portrayal: This course helped me in improving my
+skill set. values: 5= completely deviate, 4=disagree, 3=neutral, 2=agree, 1=fully agree V5: variable name: sharing , variable
+depiction: Sharing what you learnt from this course can be useful to the people in your organisation. values: 1=fully
+oppose this idea, 2=disagree, 3=neutral, 4=agree, 5=fully agree V6: variable name: course completion, variable depiction:
+Did you complete all the modules of this course? values: 1=Yes, 2=No V7: variable name: interest, variable depiction: The
+course content fails to interest me. values: 1=Yes, 2=No “code as 00 for all missing values”.
